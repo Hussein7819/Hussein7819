@@ -36,7 +36,7 @@ I'm a Security Researcher and Entrepreneur based in Egypt. I specialize in uncov
 ### ✍️ Technical Writeups & Reviews
 Check out my latest security articles and exam reviews on [Medium](https://medium.com/@Hussein-Ashour):
 
-* 📝 **[Is the PT1 by TryHackMe Worth Taking?](https://medium.com/@Hussein-Ashour/is-the-pt1-by-tryhackme-worth-taking-d00c01c803ce)** — A deep dive into the PenTest+ pathway and its real-world value.
+* 📝 **[Is the PT1 by TryHackMe Worth Taking?](https://medium.com/@Hussein-Ashour/is-the-pt1-by-tryhackme-worth-taking-d00c01c803ce)** — A deep dive into TryHackMe PT1 and its real-world value.
 * 📝 **[Passed the eJPTv2 with a High Score](https://medium.com/@Hussein-Ashour/passed-the-ejptv2-with-a-high-score-my-exact-study-plan-and-must-know-exam-tips-a2e6295a8393)** — My exact study plan and essential exam tips for aspiring penetration testers.
 
 ---
