@@ -13,7 +13,7 @@
 I'm a Security Researcher and Entrepreneur based in Egypt. I specialize in uncovering vulnerabilities across web applications and infrastructure, with a deep focus on **AI-driven security solutions** and mitigating social engineering threats.
 
 * 🔍 **Current Focus:** Leading security innovation and AI defense at **MNTSguard**.
-* 🌐 **Offensive Security:** Specialized in OSINT, Network Pentesting, and Digital Footprinting.
+* 🌐 **Offensive Security:** Specialized in Network Pentesting, Web/API Pentesting, Active Directory Pentesting and OSINT.
 * 🛠️ **Custom Tooling:** I develop custom security scripts in Python, C#, and Bash to automate complex reconnaissance tasks.
 
 ---
@@ -29,7 +29,6 @@ I'm a Security Researcher and Entrepreneur based in Egypt. I specialize in uncov
 **Key Achievements:**
 * 🥇 **TryHackMe Top 1% Globally** — Dedicated to continuous hands-on lab mastery.
 * 🛡️ **PortSwigger Academy:** Proficient in OWASP Top 10 & Advanced Web Vulnerability Research.
-* 🚀 **Ebdaa 14 Participant:** Developed an Arabic-language ML security prototype with 90% detection accuracy.
 
 ---
 
