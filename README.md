@@ -73,11 +73,6 @@ Check out my latest security articles and exam reviews on [Medium](https://mediu
 
 ---
 
-### 📊 GitHub Stats
-![Hussein's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hussein7819&show_icons=true&theme=tokyonight)
-
----
-
 ### 🎮 Lab Profiles
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-1a2035?logo=tryhackme&logoColor=a6c0e8)](https://tryhackme.com/p/TheS7s)
 
