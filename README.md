@@ -4,6 +4,7 @@
 *Focused on Offensive Security, Adversary Simulation, and AI-Driven Defense*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hussein-ashour-6815a7312/) 
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Hussein-Ashour)
 [![Email](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white)](mailto:hussein.ashour.2005@gmail.com)
 ![Open to Work](https://img.shields.io/badge/Open%20to%20Work-16a34a?style=flat)
 
@@ -32,6 +33,14 @@ I'm a Security Researcher and Entrepreneur based in Egypt. I specialize in uncov
 
 ---
 
+### ✍️ Technical Writeups & Reviews
+Check out my latest security articles and exam reviews on [Medium](https://medium.com/@Hussein-Ashour):
+
+* 📝 **[Is the PT1 by TryHackMe Worth Taking?](https://medium.com/@Hussein-Ashour/is-the-pt1-by-tryhackme-worth-taking-d00c01c803ce)** — A deep dive into the PenTest+ pathway and its real-world value.
+* 📝 **[Passed the eJPTv2 with a High Score](https://medium.com/@Hussein-Ashour/passed-the-ejptv2-with-a-high-score-my-exact-study-plan-and-must-know-exam-tips-a2e6295a8393)** — My exact study plan and essential exam tips for aspiring penetration testers.
+
+---
+
 ### 📂 Featured Projects
 
 #### 🛡️ [MNTSguard](https://mntsguard.org/) 
@@ -41,20 +50,18 @@ I'm a Security Researcher and Entrepreneur based in Egypt. I specialize in uncov
 #### 💳 [Digital-Wallet-QT](https://github.com/Hussein7819/Digital-Wallet-QT)
 > Secure C++ digital wallet using STL data structures. 
 * **Security:** Features Regex-validated registration and password hashing.
-* **Performance:** Optimized with Unordered Maps for $O(1)$ lookup and a P2P transaction engine using priority queues and stacks.
+* **Performance:** Optimized with Unordered Maps for $O(1)$ lookup and a P2P transaction engine.
 
 #### ⚖️ [Criminal-Record-Application](https://github.com/Hussein7819/Criminal-Record-Application)
-> Java-based management system designed for law enforcement (Sheriff/Police departments).
-* **Architecture:** Built using strict OOP principles and JavaFX GUI for secure data organization and efficient record retrieval.
+> Java-based management system designed for law enforcement agencies.
+* **Architecture:** Built using strict OOP principles and JavaFX for secure data organization and record retrieval.
 
 #### 🛍️ [Trefle-8-suits-website](https://github.com/Hussein7819/Trefle-8-suits-website)
 > Full-stack e-commerce application with a focus on secure user and product management.
-* **Tech:** C# ASP.NET MVC backend with a Bootstrap/JS frontend.
 * **Security:** Implemented mitigations for SQLi and XSS to minimize the attack surface.
 
 #### 📅 [Career-week-portal](https://github.com/Hussein7819/Career-week-portal)
-> Scalable Event Management System for Ain Shams University.
-* **Features:** Multi-role access control, QR attendance tracking, and session booking.
+> Scalable Event Management System for Ain Shams University featuring multi-role access control.
 
 ---
 
