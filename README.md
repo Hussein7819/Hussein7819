@@ -37,26 +37,30 @@ I'm a Security Researcher and Entrepreneur based in Egypt. I specialize in uncov
 #### 🛡️ [MNTSguard](https://mntsguard.org/) 
 > **AI Security Startup** dedicated to revolutionizing threat detection and defensive automation.
 * **Role:** Founder & Lead Security Researcher.
-* **Focus:** Developing intelligent, scalable security solutions for modern digital landscapes.
 
-#### 💳 [Simple Digital Wallet](https://github.com/Hussein7819/)
-> A secure C++/Qt-based financial management system focusing on data integrity and P2P security.
-* **Security:** Implemented secure authentication with password hashing and regex-validated registration.
-* **Logic:** Built a P2P transaction engine using priority queues and stacks for auditable management.
+#### 💳 [Digital-Wallet-QT](https://github.com/Hussein7819/Digital-Wallet-QT)
+> Secure C++ digital wallet using STL data structures. 
+* **Security:** Features Regex-validated registration and password hashing.
+* **Performance:** Optimized with Unordered Maps for $O(1)$ lookup and a P2P transaction engine using priority queues and stacks.
 
-#### 🛍️ [Online Boutique – Trefle-8](https://github.com/Hussein7819/)
-> Full-stack ASP.NET MVC e-commerce platform built with a "Security-by-Design" philosophy.
-* **Security:** Implemented OWASP Top 10 mitigations (SQLi/XSS protections) and secure session management.
-* **Architecture:** Leveraged MVC separation of concerns to minimize attack surfaces and enforce input sanitization.
+#### ⚖️ [Criminal-Record-Application](https://github.com/Hussein7819/Criminal-Record-Application)
+> Java-based management system designed for law enforcement (Sheriff/Police departments).
+* **Architecture:** Built using strict OOP principles and JavaFX GUI for secure data organization and efficient record retrieval.
 
-#### 📈 [Smart-Phone Price Prediction](https://github.com/Hussein7819/Smart-Phone-Prices-Prediction)
-> Machine learning project utilizing Scikit-learn and Pandas for market trend analysis and price forecasting.
+#### 🛍️ [Trefle-8-suits-website](https://github.com/Hussein7819/Trefle-8-suits-website)
+> Full-stack e-commerce application with a focus on secure user and product management.
+* **Tech:** C# ASP.NET MVC backend with a Bootstrap/JS frontend.
+* **Security:** Implemented mitigations for SQLi and XSS to minimize the attack surface.
+
+#### 📅 [Career-week-portal](https://github.com/Hussein7819/Career-week-portal)
+> Scalable Event Management System for Ain Shams University.
+* **Features:** Multi-role access control, QR attendance tracking, and session booking.
 
 ---
 
 ### 🛠️ Technical Stack & Tools
 
-* **Languages:** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![C%23](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+* **Languages:** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![C%23](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 * **Pentesting:** ![Kali Linux](https://img.shields.io/badge/-Kali_Linux-557C94?style=flat&logo=kali-linux&logoColor=white) ![Burp Suite](https://img.shields.io/badge/-Burp_Suite-FF6633?style=flat&logo=burp-suite&logoColor=white) ![Metasploit](https://img.shields.io/badge/-Metasploit-2596CD?style=flat&logo=metasploit&logoColor=white) ![Nmap](https://img.shields.io/badge/-Nmap-0E83CD?style=flat&logo=nmap&logoColor=white)
 * **Workflow:** ![Obsidian](https://img.shields.io/badge/-Obsidian-483699?style=flat&logo=obsidian&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
