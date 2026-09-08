@@ -36,7 +36,7 @@ I'm a Security Researcher and Entrepreneur based in Egypt. I specialize in uncov
 ### ✍️ Technical Writeups & Reviews
 Check out my latest security articles and exam reviews on [Medium](https://medium.com/@Hussein-Ashour):
 
-* 📝 **[Stop Trusting Your AI Agent: I Spent 30 Days Teaching 100+ People to Break It](https://medium.com/@Hussein-Ashour/stop-trusting-your-ai-agent-i-spent-30-days-teaching-100-people-to-break-it-41bf670d3cea)** — Insights from an intensive AI vulnerability and security training bootcamp.
+* 📝 **[Stop Trusting Your AI Agent: I Spent 30 Days Teaching 100+ People to Break It](https://medium.com/@Hussein-Ashour/stop-trusting-your-ai-agent-i-spent-30-days-teaching-100-people-to-break-it-41bf670d3cea)** — Insights from an intensive AI security training bootcamp.
 * 📝 **[Is the PT1 by TryHackMe Worth Taking?](https://medium.com/@Hussein-Ashour/is-the-pt1-by-tryhackme-worth-taking-d00c01c803ce)** — A deep dive into TryHackMe PT1 and its real-world value.
 * 📝 **[Passed the eJPTv2 with a High Score](https://medium.com/@Hussein-Ashour/passed-the-ejptv2-with-a-high-score-my-exact-study-plan-and-must-know-exam-tips-a2e6295a8393)** — My exact study plan and essential exam tips for aspiring penetration testers.
 
